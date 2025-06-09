@@ -1,0 +1,7 @@
+cargo init file --lib 
+    
+cargo build 
+cargo test 
+cargo test -- --nocapture , it helps to print is there is any print stament in it 
+
+cargo fmt  , it formats the file 
